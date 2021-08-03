@@ -1,2 +1,2 @@
-# Machine-Learning-to-Predict-Critical-Temperatures-in-Steels
-Machine Learning to Predict Critical Temperatures in Steels
+# ML-for-Critical-Temp-of-Steels
+Machine Learning to Predict Critical Temperature of Steels
